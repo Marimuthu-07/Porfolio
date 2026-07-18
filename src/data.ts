@@ -11,7 +11,7 @@ export const PERSONAL_INFO = {
   github: 'https://github.com/Marimuthu-07',
   linkedin: 'https://www.linkedin.com/in/marimuthu-a-',
   leetcode: 'https://leetcode.com/u/01B6kAMEoF/',
-  resumeDownloadUrl: '#', // We can support mock or direct download link
+  resumeDownloadUrl: 'Marimuthu_A_Resume.odt', // We can support mock or direct download link
 };
 
 export const PROJECTS: Project[] = [
